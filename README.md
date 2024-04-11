@@ -39,7 +39,16 @@ API 2° Semestre - Logística Noturno
 
 | Avatar | Aluno | Função |
 | ------ | ----- | -------| 
-|![image]
+|![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/b544beea-a5ac-4c22-9f2b-9eb08ae2fb74)| Evelyn Victoria Pereira de Mel | Product Owner |
+![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/3e7ffded-45a7-41b6-94a7-45902b846b25)|Fernanda da Silva de Andrade|Scrum Master|
+![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/8e1e2fa0-ba6d-4831-9737-a6334706b99f)|Gabriela De Avila| Developer Team|
+![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/3c742fb0-c75b-43c2-b59c-66c483597013)|Luiz Caldas | Developer Team| 
+
+
+
+
+
+
                                                                                                                                                                                                                                                                                       
 ## Identidade e Proposito
 
