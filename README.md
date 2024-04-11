@@ -43,6 +43,12 @@ API 2° Semestre - Logística Noturno
 ![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/3e7ffded-45a7-41b6-94a7-45902b846b25)|Fernanda da Silva de Andrade|Scrum Master|
 ![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/8e1e2fa0-ba6d-4831-9737-a6334706b99f)|Gabriela De Avila| Developer Team|
 ![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/3c742fb0-c75b-43c2-b59c-66c483597013)|Luiz Caldas | Developer Team| 
+![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/9c6d4bb4-4540-4c56-ab03-c51786e373e9)|Tássia Nataly de Souza Campos| Developer Team|
+![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/a4d83c0e-1c48-47f1-a1b0-16d10ea82b65)|Lucas Monteiro| Developer Team|
+![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/6143b3d6-7dad-40e4-b580-0ae39b566d7d)|Raíssa Nunes| Developer Team|
+
+
+
 
 
 
