@@ -30,8 +30,7 @@ API 2° Semestre - Logística Noturno
 > Logo
 
 <p align="center"> 
-  <img src=![divina beleza](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/71bd4832-3cd2-49bf-87e0-b877f9ff49c2)
-
+  ![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/24db12ab-ef34-4e3f-925f-cf99f74ab2a8)
 </p> 
 
 
