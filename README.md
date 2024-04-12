@@ -41,8 +41,9 @@ API 2° Semestre - Logística Noturno
 
 
 <details>
+  
   <summary>Nosso Time</summary>
- > Equipe 
+  
 
 | Avatar | Aluno | Função |
 | ------ | ----- | -------| 
