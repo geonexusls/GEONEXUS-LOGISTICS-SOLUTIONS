@@ -39,6 +39,9 @@ API 2° Semestre - Logística Noturno
 
 > A **GEONEXUS LOGISTICS SOLUTIONS** tem como objetivo principal objetivo 
 
+
+<details>
+  <summary>Nosso Time</summary>
  > Equipe 
 
 | Avatar | Aluno | Função |
@@ -51,7 +54,7 @@ API 2° Semestre - Logística Noturno
 ![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/a4d83c0e-1c48-47f1-a1b0-16d10ea82b65)|Lucas Monteiro| Developer Team|
 ![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/6143b3d6-7dad-40e4-b580-0ae39b566d7d)|Raíssa Nunes| Developer Team|
 
-
+</details>
 
 
 
