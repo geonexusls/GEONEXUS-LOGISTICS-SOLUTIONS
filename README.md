@@ -24,10 +24,10 @@ API 2° Semestre - Logística Noturno
  
 
 ## **O Projeto**
-> 
+> O projeto integrador em logística visa identificar modais utilizados em trâmites internacionais de movimentação de cargas e desenhar a geografia do fluxo de exportação de cargas provenientes do estado de São Paulo, desenvolver linha de tendências para as cargas identificadas e criar um modelo de previsão exponencial, que nos faça permitir identificar as movimentações futuras das cargas. 
 
 ## **A Empresa**
-### Logo
+> ### Logo
 
 
 <div align="center">
@@ -37,7 +37,7 @@ API 2° Semestre - Logística Noturno
 </div>
 
 
-> A **GEONEXUS LOGISTICS SOLUTIONS** tem como objetivo principal objetivo 
+> A **GEONEXUS LOGISTICS SOLUTIONS** tem como objetivo principal objetivo analisar os modais de transporte nas exportações de cargas de São Paulo, mapear o fluxo de exportação, desenvolver linhas de tendências e criar um modelo de previsão exponencial para identificar futuras movimentações de cargas, fornecendo insights para otimizar a logística e gerenciar o comércio internacional de forma eficiente.
 
 
 <details>
@@ -77,11 +77,11 @@ API 2° Semestre - Logística Noturno
 
 ### Tecnologias de Apoio
 
-![Recisão-Raíssa Nunes M2AP](https://github.com/Mefller/mapeamento-potencial/assets/144354286/ba43a6fb-52d7-4407-9bfe-e54d401be3f2)
+<div align="center">
+  
+![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/3baadc95-95ca-45f0-88e0-c41babeb40f6)
 
-
-
-
+</div>
 
 ## Cronograma
 
