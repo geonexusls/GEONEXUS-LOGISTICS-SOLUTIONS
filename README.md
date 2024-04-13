@@ -56,14 +56,7 @@ API 2° Semestre - Logística Noturno
 
 
 </details>
-
-
-
-
-
-
-
-                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                   
 ## Identidade e Proposito
 
 > Missão : 
@@ -104,32 +97,7 @@ API 2° Semestre - Logística Noturno
 </details>
 <details>
 <summary>Sprint 1</summary>
-*
-</details>
-
-<details>
-<summary>Sprint 2</summary>
-*  
-</details>
-
-<details>
-<summary>Sprint 3</summary>
-*  
-</details>
-
-<details>
-<summary>Sprint 4</summary>
-*  
-</details>
- 
-<details>
-<summary>Feira de Soluções</summary>
-*  
-</details>
-                                                                                                                                                                                     
-
-**<summary>Sprint 01</summary>**
-
+  
  _Concluido_
 
 >Backlog
@@ -156,25 +124,11 @@ _Por Itens_
 
 ![image]
 
-_Potótipo de Dashboard_
+</details>
 
->Importação
-
-
-![image]
-
->Exportação
-
-
-![image]
-
-
-
-
-     
-
-**<summary>Sprint 02</summary>**
-
+<details>
+<summary>Sprint 2</summary>
+  
 _Concluido_
 
 >Backlog
@@ -200,14 +154,70 @@ _Por Itens_
 
 _Potótipo de Dashboard_
 
-> Importação
 
-![image]
+</details>
 
-> Exportação
-
-![image]
-
-**<summary>Sprint 03</summary>**
+<details>
+<summary>Sprint 3</summary>
   
 _Concluido_
+
+>Backlog
+<div id="top"></div>
+<p align="center">
+
+![image]
+      
+>Burndown Chart
+  
+_Por Tempo_
+<div id="top"></div>
+<p align="center">
+
+![image]
+
+  
+_Por Itens_
+<div id="top"></div>
+<p align="center">
+
+![image]
+
+_Dashboard_
+ 
+</details>
+
+<details>
+<summary>Sprint 4</summary>
+_Concluido_
+
+>Backlog
+<div id="top"></div>
+<p align="center">
+
+![image]
+      
+>Burndown Chart
+  
+_Por Tempo_
+<div id="top"></div>
+<p align="center">
+
+![image]
+
+  
+_Por Itens_
+<div id="top"></div>
+<p align="center">
+
+![image]
+
+_Dashboard_ 
+</details>
+ 
+<details>
+  
+<summary>Feira de Soluções</summary>
+*  
+</details>
+                                                                                                                                                                                     
