@@ -42,10 +42,8 @@ API 2° Semestre - Logística Noturno
 
 <details>
   
-  <summary>Nosso Time</summary>
-  
-<p align="center"> 
-  
+<summary>Nosso Time</summary>
+     
 | Avatar | Aluno | Função |
 | ------ | ----- | -------| 
 |![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/b544beea-a5ac-4c22-9f2b-9eb08ae2fb74)| Evelyn Victoria P. de Melo | Product Owner |
@@ -58,7 +56,7 @@ API 2° Semestre - Logística Noturno
 
 
 </details>
-</p> 
+
 
 
 
@@ -100,19 +98,35 @@ API 2° Semestre - Logística Noturno
 
 ## Cronograma
 
-* Kick-off do Projeto - 
+ <details>
+<summary>Kickoff do Projeto</summary>
+*  
+</details>
+<details>
+<summary>Sprint 1</summary>
 
-* Sprint 1 - 
+</details>
 
-* Sprint 2 - 
+<details>
+<summary>Sprint 2</summary>
+*  
+</details>
 
-* Sprint 3 - 
+<details>
+<summary>Sprint 3</summary>
+*  
+</details>
 
-* Feira de Soluções - 
-                                                                                                                                                                                     <p align="right">(<a href="#top">voltar ao topo</a>)
-
-
-
+<details>
+<summary>Sprint 4</summary>
+*  
+</details>
+ 
+<details>
+<summary>Feira de Soluções</summary>
+*  
+</details>
+                                                                                                                                                                                     
 
 **<summary>Sprint 01</summary>**
 
