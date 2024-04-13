@@ -69,12 +69,6 @@ API 2° Semestre - Logística Noturno
 ## Análise SWOT
 
 
-## Departamentalização 
-
-
-
-
-
 ## Objetivo 
 >
 
