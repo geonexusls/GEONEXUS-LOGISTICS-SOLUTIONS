@@ -27,7 +27,7 @@ API 2° Semestre - Logística Noturno
 > 
 
 ## **A Empresa**
-> Logo
+### Logo
 
 
 <div align="center">
@@ -104,7 +104,7 @@ API 2° Semestre - Logística Noturno
 </details>
 <details>
 <summary>Sprint 1</summary>
-
+*
 </details>
 
 <details>
