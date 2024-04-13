@@ -36,7 +36,7 @@ API 2° Semestre - Logística Noturno
 
 </div>
 
-
+## Objetivo 
 > A **GEONEXUS LOGISTICS SOLUTIONS** tem como objetivo principal objetivo analisar os modais de transporte nas exportações de cargas de São Paulo, mapear o fluxo de exportação, desenvolver linhas de tendências e criar um modelo de previsão exponencial para identificar futuras movimentações de cargas, fornecendo insights para otimizar a logística e gerenciar o comércio internacional de forma eficiente.
 
 
@@ -68,10 +68,6 @@ API 2° Semestre - Logística Noturno
 
 ## Análise SWOT
 
-
-## Objetivo 
->
-
 ## Organização e Metodologia
 > 
 
@@ -85,14 +81,10 @@ API 2° Semestre - Logística Noturno
 
 ## Cronograma
 
- <details>
-<summary>Kickoff do Projeto</summary>
-*  
-</details>
 <details>
 <summary>Sprint 1</summary>
   
- _Concluido_
+ _In Progress_
 
 >Backlog
 <div id="top"></div>
