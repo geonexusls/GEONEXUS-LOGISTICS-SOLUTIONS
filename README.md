@@ -59,17 +59,18 @@ API 2° Semestre - Logística Noturno
                                                                                                                                                                                                                                                                                    
 ## Identidade e Proposito
 
-> Missão : 
+> Missão : _A desenvolver / executar_
 
-> Visão : 
+> Visão : _A desenvolver / executar_
 
-> Valores:
+> Valores: _A desenvolver / executar_
 
 
 ## Análise SWOT
+> _A desenvolver / executar_
 
 ## Organização e Metodologia
-> 
+> _A desenvolver / executar_
 
 ### Tecnologias de Apoio
 
@@ -82,129 +83,126 @@ API 2° Semestre - Logística Noturno
 ## Cronograma
 
 <details>
-<summary>Sprint 1</summary>
+<summary>Sprint 1 (25/03/24 - 15/04/24):</summary>
+
   
  _In Progress_
 
->Backlog
-<div id="top"></div>
-<p align="center">
-  
-![image]
-
-
+ * Estruturar relatório;
+ * Coletar informações de cada grupo;
+ * Elencar ferramentas utilizadas;
+ * Estruturar GitHub;
+ * Disponibilizar relatório no GitHub;
+ * Workshop - Jira Software;
+ * Atribuir atividades para a próxima Sprint;
+ * Estruturar backlog geral com base nas disciplinas do curso;
+ * Criar identidade visual da empresa;
+ * Organizar apresentação da Sprint 1;
+ * Reunir equipe no Slack;
+ * Realizar análise inicial da base de dados.
 
 >Burndown Chart
 
 _Por Tempo_
-<div id="top"></div>
-<p align="center">
 
-![image]
-
+**A desenvolver / executar.**
 
 _Por Itens_
 
-<p align="center">
-      
-
-![image]
+**A desenvolver / executar.**
 
 </details>
 
 <details>
-<summary>Sprint 2</summary>
   
-_Concluido_
+<summary>Sprint 2 (16/04/24 - 06/05/24):</summary>
 
->Backlog
-<div id="top"></div>
-<p align="center">
+* Relatório atualizado;
+* Disponibilizar relatório no GitHub;
+* Selecionar dados;
+* Criar protótipo de dashboard;
+* Atribuir atividades para a próxima Sprint;
+* Workshop - Jira Software;
+* Realizar comunicação com o cliente.  
 
-![image]
-      
 >Burndown Chart
-  
+
 _Por Tempo_
-<div id="top"></div>
-<p align="center">
 
-![image]
-
+**A desenvolver / executar.**
   
 _Por Itens_
-<div id="top"></div>
-<p align="center">
 
-![image]
+**A desenvolver / executar.**
 
 _Potótipo de Dashboard_
 
+**A desenvolver / executar.**
 
 </details>
 
 <details>
-<summary>Sprint 3</summary>
   
-_Concluido_
-
->Backlog
-<div id="top"></div>
-<p align="center">
-
-![image]
+<summary>Sprint 3 (07/05/24 - 27/05/24):</summary>
+  
+* Missão, visão e valores da empresa;
+* Avaliar sustentabilidade dos modais mais utilizados;
+* Relatório atualizado;
+* Disponibilizar relatório no GitHub;
+* Analisar fluxos de mercadorias;
+* Realizar análise econômica dos processos;  
+* Atribuir atividades para a próxima Sprint;
+* Realizar comunicação com o cliente;
+* Realizar reunião de fim de Sprint.
       
 >Burndown Chart
   
 _Por Tempo_
-<div id="top"></div>
-<p align="center">
 
-![image]
+**A desenvolver / executar.**
 
-  
 _Por Itens_
-<div id="top"></div>
-<p align="center">
 
-![image]
+**A desenvolver / executar.**
 
 _Dashboard_
  
+**A desenvolver / executar.**
 </details>
 
 <details>
-<summary>Sprint 4</summary>
   
-_Concluido_
-
->Backlog
-<div id="top"></div>
-<p align="center">
-
-![image]
+<summary>Sprint 4 (28/05/24 - 17/06/24):</summary>
+  
+* Relatório atualizado;
+* Disponibilizar relatório no GitHub;
+* Ajustar produto conforme orientações do cliente;
+* Atribuir atividades para a Feira de Soluções;
+* Realizar comunicação final com o cliente;
+* Realizar reunião de fim de Sprint.
       
 >Burndown Chart
   
-_Por Tempo_
-<div id="top"></div>
-<p align="center">
-
-![image]
-
+**A desenvolver / executar.**
   
 _Por Itens_
-<div id="top"></div>
-<p align="center">
 
-![image]
+**A desenvolver / executar.**
 
 _Dashboard_ 
+
+**A desenvolver / executar.**
+
 </details>
  
 <details>
   
-<summary>Feira de Soluções</summary>
-*  
+<summary>Feira de Soluções (18/06/24 - 27/06/24):</summary>
+
+* Preparar GitHub para o acesso do público;
+* Realizar ajustes finais;
+* Preparar apresentação para a Feira de Soluções;
+* Realizar plano de revezamento de apresentações.
+  
 </details>
                                                                                                                                                                                      
