@@ -80,7 +80,7 @@ API 2° Semestre - Logística Noturno
 
 </div>
 
-## Cronograma
+## Backlog Geral 
 
 <details>
 <summary>Sprint 1 (25/03/24 - 15/04/24):</summary>
