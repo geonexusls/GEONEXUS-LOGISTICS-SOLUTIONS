@@ -15,7 +15,6 @@ API 2° Semestre - Logística Noturno
 * Empresa
 * Identidade e Propósito
 * Análise SWOT
-* Departamentalização
 * Objetivo
 * Organização e Metodologia
 * Tecnologias de apoio
