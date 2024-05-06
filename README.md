@@ -90,6 +90,10 @@ API 2° Semestre - Logística Noturno
 
 ## Backlog Geral 
 
+![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/89fda27e-3a84-4f8c-85d0-9c0db37960cf)
+
+## Backlog por Sprints 
+
 <details>
 <summary>Sprint 1 (25/03/24 - 15/04/24):</summary>
 
