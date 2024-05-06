@@ -59,12 +59,20 @@ API 2° Semestre - Logística Noturno
                                                                                                                                                                                                                                                                                    
 ## Identidade e Proposito
 
-> Missão : _A desenvolver / executar_
+> Missão : Nossa missão é oferecer insights precisos para aprimorar a logística e gerenciamento do comércio exterior de uma forma mais eficaz, promovendo o crescimento sustentável e econômico para nossos clientes.
 
-> Visão : _A desenvolver / executar_
+> Visão : Sermos reconhecidos como líderes no fornecimento de soluções analíticas inovadoras para o setor de transporte de cargas, contribuindo então para a eficiência operacional e o sucesso dos negócios de nossos consumidores em um mercado globalizado.
 
-> Valores: _A desenvolver / executar_
+> Valores:
+* Excelência: Comprometemo-nos a fornecer análises de alta qualidade e soluções precisas que superem as expectativas de nossos clientes.
 
+* Inovação: Estamos sempre buscando novas maneiras de aprimorar nossos métodos analíticos e tecnológicos para oferecer percepções ainda mais relevantes e úteis.
+
+* Integridade: Operamos com os mais altos padrões éticos, mantendo a transparência e a honestidade em todas as nossas interações e decisões.
+
+* Colaboração: Valorizamos o trabalho em equipe e a colaboração com nossos clientes para alcançar resultados que beneficiem a todos.
+
+* Sustentabilidade: Estamos comprometidos com a sustentabilidade ambiental e social em todas as nossas operações e soluções, visando um futuro melhor para as gerações futuras.
 
 ## Análise SWOT
 > _A desenvolver / executar_
