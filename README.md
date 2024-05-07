@@ -75,9 +75,14 @@ API 2° Semestre - Logística Noturno
 * Sustentabilidade: Estamos comprometidos com a sustentabilidade ambiental e social em todas as nossas operações e soluções, visando um futuro melhor para as gerações futuras.
 
 ## Dashboard
-> https://bit.ly/geonexuslsdashboard
-![GEONEXUS QR CODE](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/dc3994db-4146-489c-9d82-fee18e5ccdef)
 
+> https://bit.ly/geonexuslsdashboard
+
+<div align="center">
+  
+![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/ea226015-4be8-4052-ba3e-df3063575b66)
+
+</div>
 
 ## Análise SWOT
 > _A desenvolver / executar_
