@@ -74,6 +74,9 @@ API 2° Semestre - Logística Noturno
 
 * Sustentabilidade: Estamos comprometidos com a sustentabilidade ambiental e social em todas as nossas operações e soluções, visando um futuro melhor para as gerações futuras.
 
+## Dashboard
+> https://bit.ly/geonexuslsdashboard
+
 ## Análise SWOT
 > _A desenvolver / executar_
 
@@ -199,9 +202,6 @@ _Dashboard_
   
 _Por Itens_
 
-**A desenvolver / executar.**
-
-_Dashboard_ 
 
 **A desenvolver / executar.**
 
