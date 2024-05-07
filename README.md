@@ -76,6 +76,8 @@ API 2° Semestre - Logística Noturno
 
 ## Dashboard
 > https://bit.ly/geonexuslsdashboard
+![GEONEXUS QR CODE](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/dc3994db-4146-489c-9d82-fee18e5ccdef)
+
 
 ## Análise SWOT
 > _A desenvolver / executar_
