@@ -84,9 +84,28 @@ API 2° Semestre - Logística Noturno
 
 </div>
 
-## Análise SWOT
-> _A desenvolver / executar_
+## Análise SWOT - FOFA
+> _FORÇA:_
+* Desenvolvimento e conhecimento;
+* Comprometimento com metas;
+* Organização;
+* Tecnologia.
+  
+> _OPORTUNIDADE:_
+* Parceria com a concorrência;
+* Busca de dados precisos com base no objetivo do cliente;
+* Concorrente para outras empresas.
 
+> _FRAQUEZA:_
+* Empresa não tão conhecida;
+* Atuantes jovens no ramo;
+* Treinamentos.
+
+> _AMEAÇA:_
+* Furtos de dados;
+* Aumento da concorrência;
+* Empresas semelhantes chegando ao mercado.
+  
 ## Organização e Metodologia
 > _A desenvolver / executar_
 
