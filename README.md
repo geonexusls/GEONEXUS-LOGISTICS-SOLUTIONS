@@ -191,11 +191,9 @@ _Potótipo de Dashboard_
 <summary>Sprint 3 (07/05/24 - 27/05/24):</summary>
   
 * Missão, visão e valores da empresa;
-* Avaliar sustentabilidade dos modais mais utilizados;
 * Relatório atualizado;
 * Disponibilizar relatório no GitHub;
-* Analisar fluxos de mercadorias;
-* Realizar análise econômica dos processos;  
+* Realisar análise de SWOT;  
 * Atribuir atividades para a próxima Sprint;
 * Realizar comunicação com o cliente;
 * Realizar reunião de fim de Sprint.
