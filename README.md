@@ -81,11 +81,6 @@ API 2° Semestre - Logística Noturno
 
 ![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/07b98175-f417-47e0-b5a5-d85e214245bd)
 
-
-
-
-
-
 </div>
 
 ## Análise SWOT - FOFA
@@ -111,10 +106,9 @@ API 2° Semestre - Logística Noturno
 * Empresas semelhantes chegando ao mercado.
   
 ## Organização e Metodologia
-> _A desenvolver / executar_
+Método Ágil: é uma forma de gerir projetos que busca dar maior rapidez aos processos e à conclusão de tarefas. Essa forma de trabalho, baseia-se em um fluxo mais ágil, flexível e sem tantos obstáculos.
 
 ### Tecnologias de Apoio
-
 <div align="center">
   
 ![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/3baadc95-95ca-45f0-88e0-c41babeb40f6)
@@ -129,9 +123,8 @@ API 2° Semestre - Logística Noturno
 
 <details>
 <summary>Sprint 1 (25/03/24 - 15/04/24):</summary>
-
   
- _In Progress_
+ _Done_
 
  * Estruturar relatório;
  * Coletar informações de cada grupo;
@@ -146,21 +139,13 @@ API 2° Semestre - Logística Noturno
  * Reunir equipe no Slack;
  * Realizar análise inicial da base de dados.
 
->Burndown Chart
-
-_Por Tempo_
-
-**A desenvolver / executar.**
-
-_Por Itens_
-
-**A desenvolver / executar.**
-
 </details>
 
 <details>
   
 <summary>Sprint 2 (16/04/24 - 06/05/24):</summary>
+
+_Done_
 
 * Relatório atualizado;
 * Disponibilizar relatório no GitHub;
@@ -170,25 +155,13 @@ _Por Itens_
 * Workshop - Jira Software;
 * Realizar comunicação com o cliente.  
 
->Burndown Chart
-
-_Por Tempo_
-
-**A desenvolver / executar.**
-  
-_Por Itens_
-
-**A desenvolver / executar.**
-
-_Potótipo de Dashboard_
-
-**A desenvolver / executar.**
-
 </details>
 
 <details>
   
 <summary>Sprint 3 (07/05/24 - 27/05/24):</summary>
+
+_Done_
   
 * Missão, visão e valores da empresa;
 * Relatório atualizado;
@@ -198,40 +171,20 @@ _Potótipo de Dashboard_
 * Realizar comunicação com o cliente;
 * Realizar reunião de fim de Sprint.
       
->Burndown Chart
-  
-_Por Tempo_
-
-**A desenvolver / executar.**
-
-_Por Itens_
-
-**A desenvolver / executar.**
-
-_Dashboard_
- 
-**A desenvolver / executar.**
 </details>
 
 <details>
   
 <summary>Sprint 4 (28/05/24 - 17/06/24):</summary>
+
+_In Progress_
   
 * Relatório atualizado;
 * Disponibilizar relatório no GitHub;
 * Ajustar produto conforme orientações do cliente;
 * Atribuir atividades para a Feira de Soluções;
 * Realizar comunicação final com o cliente;
-* Realizar reunião de fim de Sprint.
-      
->Burndown Chart
-  
-**A desenvolver / executar.**
-  
-_Por Itens_
-
-
-**A desenvolver / executar.**
+* Realizar reunião de fim de Sprint.    
 
 </details>
  
