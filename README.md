@@ -6,7 +6,7 @@ API 2° Semestre - Logística Noturno
   
 <p align="center">   
  <img src="https://img.shields.io/badge/Status%3A-DONE-green"/>
- <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/badge/Instituição%3A-FATEC-red"/></a>
+ <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/badge/Instituição%3A-FATEC-blue"/></a>
 </p>
 
 ## **Índice**
