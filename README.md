@@ -5,7 +5,7 @@ API 2° Semestre - Logística Noturno
 </p> 
   
 <p align="center">   
- <img src="https://img.shields.io/badge/Status%3A-IN PROGRESS-green"/>
+ <img src="https://img.shields.io/badge/Status%3A-DONE-green"/>
  <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/badge/Instituição%3A-FATEC-red"/></a>
 </p>
 
@@ -39,14 +39,13 @@ API 2° Semestre - Logística Noturno
 > A **GEONEXUS LOGISTICS SOLUTIONS** tem como objetivo principal objetivo analisar os modais de transporte nas exportações de cargas de São Paulo, mapear o fluxo de exportação, desenvolver linhas de tendências e criar um modelo de previsão exponencial para identificar futuras movimentações de cargas, fornecendo insights para otimizar a logística e gerenciar o comércio internacional de forma eficiente.
 
 
-<details>
   
-<summary>Nosso Time (Clique para expandir)</summary>
+## Nossa Equipe
      
 | Avatar | Aluno | Função |
 | ------ | ----- | -------| 
-|![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/b544beea-a5ac-4c22-9f2b-9eb08ae2fb74)| Evelyn Victoria P. de Melo | Product Owner |
-![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/3e7ffded-45a7-41b6-94a7-45902b846b25)|Fernanda da Silva de Andrade|Scrum Master|
+|![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/b544beea-a5ac-4c22-9f2b-9eb08ae2fb74)|Evelyn Victoria P. de Melo | Product Owner |
+![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/3e7ffded-45a7-41b6-94a7-45902b846b25)|Fernanda da Silva de Andrade| Scrum Master|
 ![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/8e1e2fa0-ba6d-4831-9737-a6334706b99f)|Gabriela De Avila| Developer Team|
 ![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/a4d83c0e-1c48-47f1-a1b0-16d10ea82b65)|Lucas Monteiro| Developer Team|
 ![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/3c742fb0-c75b-43c2-b59c-66c483597013)|Luiz Caldas | Developer Team| 
@@ -54,8 +53,6 @@ API 2° Semestre - Logística Noturno
 ![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/9c6d4bb4-4540-4c56-ab03-c51786e373e9)|Tássia Nataly de Souza Campos| Developer Team|
 ![image](https://github.com/geonexusls/PROJETO-INTEGRADOR-2-SEMESTRE/assets/166401059/5e0ca952-2273-4dbf-afc1-0280bddf0a57)|Mayara Nogueira | Developer Team|
 
-
-</details>
                                                                                                                                                                                                                                                                                    
 ## Identidade e Proposito
 
@@ -177,7 +174,7 @@ _Done_
   
 <summary>Sprint 4 (28/05/24 - 17/06/24):</summary>
 
-_In Progress_
+_Done_
   
 * Relatório atualizado;
 * Disponibilizar relatório no GitHub;
@@ -191,6 +188,7 @@ _In Progress_
 <details>
   
 <summary>Feira de Soluções (18/06/24 - 27/06/24):</summary>
+
 
 * Preparar GitHub para o acesso do público;
 * Realizar ajustes finais;
